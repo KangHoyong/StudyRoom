@@ -10,11 +10,11 @@
 2. MVC patternator
 - [Light the candle MVC life cycle](https://github.com/KangHoyong/StudyRoom/issues/2)
 
-[__strong & __weak in ARC](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.m#L11)
+- [__strong & __weak in ARC](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.m#L11)
 
-[setter, getter access method 정의부분](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.h#L20)
+- [setter, getter access method 정의부분](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.h#L20)
 
-[setter, getter access method 구현부분](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.m#L52)
+- [setter, getter access method 구현부분](https://github.com/KangHoyong/StudyRoom/blob/master/ios%20study%202day%20(Light%20the%20candle)%20MVC%20patternator/CandleModel.m#L52)
 
 
 3. property
