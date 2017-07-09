@@ -8,6 +8,7 @@
 
 #import "CandleModel.h"
 
+// __strong & __weak 구현부분 제로 포인트 제공 여부 체크
 @interface CandleModel(){
     // 멤버변수 선언 , 제로 Weak 제공
     //__weak UIImage *tempWeak;
@@ -48,6 +49,7 @@
     return self;
 }
 
+// setter, getter access method 구현부분 
 -(UIImage *) imageCandleOn
 {
     return imageCandleOn;
