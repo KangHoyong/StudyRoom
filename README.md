@@ -3,7 +3,7 @@
 - 공부 언어 : Objective-C , swift
 
 - IOS Base Study
-1. 촛불을 켜라 App Study 
+1. Light the candle App Study 
 - [Light the candle life cycle](https://github.com/KangHoyong/StudyRoom/issues/1)
 - [Light the candle Bace Code](https://github.com/KangHoyong/StudyRoom/tree/master/ios%20study%201day%20(Light%20the%20candle))
 
