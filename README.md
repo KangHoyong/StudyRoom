@@ -19,14 +19,14 @@
 
 
 3. property
-
+- [Light the candle Application access method changed property](https://github.com/KangHoyong/StudyRoom/issues/3)
 
 4. Universal Application 
 Light the Candle을 Universal Application 으로 변경 
 
 #
 # Apple Guides and Sample Code [developer]
-- [developer](https://developer.apple.com/library/content/navigation/)
+- [Developer](https://developer.apple.com/library/content/navigation/)
 - [The Swift Programming Language documentation (English)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
 - [The Swift Programming Language documentation (KR)](http://swift.leantra.kr/)
 
