@@ -5,6 +5,7 @@
 - IOS Base Study
 1. Light the candle App Study 
 - [Light the candle life cycle](https://github.com/KangHoyong/StudyRoom/issues/1)
+
 - [Light the candle Bace Code](https://github.com/KangHoyong/StudyRoom/tree/master/ios%20study%201day%20(Light%20the%20candle))
 
 2. MVC patternator
@@ -26,7 +27,8 @@ Light the Candle을 Universal Application 으로 변경
 #
 # Apple Guides and Sample Code [developer]
 - [developer](https://developer.apple.com/library/content/navigation/)
-
+- [The Swift Programming Language documentation (English)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
+- [The Swift Programming Language documentation (KR)](http://swift.leantra.kr/)
 
 
 [강의 내용 및 공부 출처](http://e.ebadaq.com/)
