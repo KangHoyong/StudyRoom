@@ -1,4 +1,4 @@
-# StudyRoom
+# This is Study Room Objective-C , swift language Study 
 - IOS 공부 시작 2017. 07. 1 ~ 
 - 공부 언어 : Objective-C , swift
 
