@@ -12,9 +12,9 @@ public class docker_DB_test {
 
             //String url = "jdbc:mysql://127.0.0.1:4444:3306";
             //String user = "root";
-            //String password = "jess1130";
+            //String password = "password";
 
-            con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:4444", "root" , "jess1130");
+            con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:4444", "root" , "password");
 
             java.sql.Statement st = null;
             ResultSet rs = null;
